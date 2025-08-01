@@ -9,6 +9,11 @@ A simple task management system where an **Admin** can create **Agents**, upload
 > An admin can create many agents and upload an Excel file with columns: `file_name`, `phone`, `notes`. These tasks are automatically and equally distributed among all agents.
 
 ---
+### Flow diagram
+
+![Alt text](https://github.com/Anirban-Gorain/Task-management-assignment-CS-infotech/blob/main/Flow%20diagram%2C%20API%20endpoints%2C%20Client%20side%20pages%20flow.png "Optional Title")
+
+---
 
 ## Tech Stack
 
